@@ -7,6 +7,16 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B97A0BB41F9481780003F8F6 /* testLoad.m in Sources */ = {isa = PBXBuildFile; fileRef = B97A0BB31F9481780003F8F6 /* testLoad.m */; };
+		B97A0BB71F948AA90003F8F6 /* RTLoadViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B97A0BB61F948AA90003F8F6 /* RTLoadViewController.m */; };
+		B97A0BC11F94AD1E0003F8F6 /* reactNative.rtf in Resources */ = {isa = PBXBuildFile; fileRef = B97A0BC01F94AD1E0003F8F6 /* reactNative.rtf */; };
+		B97A0BC51F94B5550003F8F6 /* UIButton_MY.m in Sources */ = {isa = PBXBuildFile; fileRef = B97A0BC41F94B5550003F8F6 /* UIButton_MY.m */; };
+		B97A0BC81F94B5910003F8F6 /* UIButton+block.m in Sources */ = {isa = PBXBuildFile; fileRef = B97A0BC71F94B5910003F8F6 /* UIButton+block.m */; };
+		B97A0BCB1F94B9000003F8F6 /* UIView+testCategory.m in Sources */ = {isa = PBXBuildFile; fileRef = B97A0BCA1F94B9000003F8F6 /* UIView+testCategory.m */; };
+		B97A0BCD1F94B9B50003F8F6 /* objc_setAssociatedObject.rtf in Resources */ = {isa = PBXBuildFile; fileRef = B97A0BCC1F94B9B50003F8F6 /* objc_setAssociatedObject.rtf */; };
+		B97A0BCF1F94B9E50003F8F6 /* testSEL.rtf in Resources */ = {isa = PBXBuildFile; fileRef = B97A0BCE1F94B9E50003F8F6 /* testSEL.rtf */; };
+		B97A0BD21F94B9F50003F8F6 /* load_VS_initlize.rtf in Resources */ = {isa = PBXBuildFile; fileRef = B97A0BD01F94B9F50003F8F6 /* load_VS_initlize.rtf */; };
+		B97A0BD31F94B9F50003F8F6 /* RTLoad_readme.rtf in Resources */ = {isa = PBXBuildFile; fileRef = B97A0BD11F94B9F50003F8F6 /* RTLoad_readme.rtf */; };
 		B9AB8CE51F944C0100DD4727 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = B9AB8CE41F944C0100DD4727 /* main.m */; };
 		B9AB8CE81F944C0100DD4727 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = B9AB8CE71F944C0100DD4727 /* AppDelegate.m */; };
 		B9AB8CEB1F944C0100DD4727 /* FirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B9AB8CEA1F944C0100DD4727 /* FirstViewController.m */; };
@@ -16,6 +26,7 @@
 		B9AB8CF61F944C0100DD4727 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B9AB8CF41F944C0100DD4727 /* LaunchScreen.storyboard */; };
 		B9AB8D011F944C0100DD4727 /* InterviewOfAllTests.m in Sources */ = {isa = PBXBuildFile; fileRef = B9AB8D001F944C0100DD4727 /* InterviewOfAllTests.m */; };
 		B9AB8D0C1F944C0100DD4727 /* InterviewOfAllUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = B9AB8D0B1F944C0100DD4727 /* InterviewOfAllUITests.m */; };
+		B9AB8D1C1F944C5C00DD4727 /* testSEL.m in Sources */ = {isa = PBXBuildFile; fileRef = B9AB8D1B1F944C5C00DD4727 /* testSEL.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +47,21 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		B97A0BB21F9481780003F8F6 /* testLoad.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = testLoad.h; path = Test/testLoad/testLoad.h; sourceTree = "<group>"; };
+		B97A0BB31F9481780003F8F6 /* testLoad.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = testLoad.m; path = Test/testLoad/testLoad.m; sourceTree = "<group>"; };
+		B97A0BB51F948AA90003F8F6 /* RTLoadViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = RTLoadViewController.h; path = Test/testLoad/RTLoadViewController.h; sourceTree = "<group>"; };
+		B97A0BB61F948AA90003F8F6 /* RTLoadViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = RTLoadViewController.m; path = Test/testLoad/RTLoadViewController.m; sourceTree = "<group>"; };
+		B97A0BC01F94AD1E0003F8F6 /* reactNative.rtf */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.rtf; path = reactNative.rtf; sourceTree = "<group>"; };
+		B97A0BC31F94B5550003F8F6 /* UIButton_MY.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = UIButton_MY.h; path = Test/getaobj/UIButton_MY.h; sourceTree = "<group>"; };
+		B97A0BC41F94B5550003F8F6 /* UIButton_MY.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = UIButton_MY.m; path = Test/getaobj/UIButton_MY.m; sourceTree = "<group>"; };
+		B97A0BC61F94B5910003F8F6 /* UIButton+block.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "UIButton+block.h"; path = "Test/getaobj/UIButton+block.h"; sourceTree = "<group>"; };
+		B97A0BC71F94B5910003F8F6 /* UIButton+block.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "UIButton+block.m"; path = "Test/getaobj/UIButton+block.m"; sourceTree = "<group>"; };
+		B97A0BC91F94B9000003F8F6 /* UIView+testCategory.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "UIView+testCategory.h"; path = "Test/getaobj/UIView+testCategory.h"; sourceTree = "<group>"; };
+		B97A0BCA1F94B9000003F8F6 /* UIView+testCategory.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "UIView+testCategory.m"; path = "Test/getaobj/UIView+testCategory.m"; sourceTree = "<group>"; };
+		B97A0BCC1F94B9B50003F8F6 /* objc_setAssociatedObject.rtf */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.rtf; name = objc_setAssociatedObject.rtf; path = Test/getaobj/objc_setAssociatedObject.rtf; sourceTree = "<group>"; };
+		B97A0BCE1F94B9E50003F8F6 /* testSEL.rtf */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.rtf; name = testSEL.rtf; path = Test/testSEL/testSEL.rtf; sourceTree = "<group>"; };
+		B97A0BD01F94B9F50003F8F6 /* load_VS_initlize.rtf */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.rtf; name = load_VS_initlize.rtf; path = Test/testLoad/load_VS_initlize.rtf; sourceTree = "<group>"; };
+		B97A0BD11F94B9F50003F8F6 /* RTLoad_readme.rtf */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.rtf; name = RTLoad_readme.rtf; path = Test/testLoad/RTLoad_readme.rtf; sourceTree = "<group>"; };
 		B9AB8CE01F944C0100DD4727 /* InterviewOfAll.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = InterviewOfAll.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B9AB8CE41F944C0100DD4727 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		B9AB8CE61F944C0100DD4727 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -54,6 +80,8 @@
 		B9AB8D071F944C0100DD4727 /* InterviewOfAllUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = InterviewOfAllUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B9AB8D0B1F944C0100DD4727 /* InterviewOfAllUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = InterviewOfAllUITests.m; sourceTree = "<group>"; };
 		B9AB8D0D1F944C0100DD4727 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B9AB8D1A1F944C5C00DD4727 /* testSEL.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = testSEL.h; path = Test/testSEL/testSEL.h; sourceTree = "<group>"; };
+		B9AB8D1B1F944C5C00DD4727 /* testSEL.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = testSEL.m; path = Test/testSEL/testSEL.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,9 +109,56 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		B97A0BB11F947FB70003F8F6 /* Runtime_load */ = {
+			isa = PBXGroup;
+			children = (
+				B97A0BB21F9481780003F8F6 /* testLoad.h */,
+				B97A0BB31F9481780003F8F6 /* testLoad.m */,
+				B97A0BB51F948AA90003F8F6 /* RTLoadViewController.h */,
+				B97A0BB61F948AA90003F8F6 /* RTLoadViewController.m */,
+				B97A0BD01F94B9F50003F8F6 /* load_VS_initlize.rtf */,
+				B97A0BD11F94B9F50003F8F6 /* RTLoad_readme.rtf */,
+			);
+			name = Runtime_load;
+			sourceTree = "<group>";
+		};
+		B97A0BBE1F94ABFE0003F8F6 /* Runtime_swizzle */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Runtime_swizzle;
+			sourceTree = "<group>";
+		};
+		B97A0BBF1F94AD050003F8F6 /* ReactNative */ = {
+			isa = PBXGroup;
+			children = (
+				B97A0BC01F94AD1E0003F8F6 /* reactNative.rtf */,
+			);
+			name = ReactNative;
+			sourceTree = "<group>";
+		};
+		B97A0BC21F94B4FE0003F8F6 /* Runtime_getaobj */ = {
+			isa = PBXGroup;
+			children = (
+				B97A0BC31F94B5550003F8F6 /* UIButton_MY.h */,
+				B97A0BC41F94B5550003F8F6 /* UIButton_MY.m */,
+				B97A0BC61F94B5910003F8F6 /* UIButton+block.h */,
+				B97A0BC71F94B5910003F8F6 /* UIButton+block.m */,
+				B97A0BC91F94B9000003F8F6 /* UIView+testCategory.h */,
+				B97A0BCA1F94B9000003F8F6 /* UIView+testCategory.m */,
+				B97A0BCC1F94B9B50003F8F6 /* objc_setAssociatedObject.rtf */,
+			);
+			name = Runtime_getaobj;
+			sourceTree = "<group>";
+		};
 		B9AB8CD71F944C0100DD4727 = {
 			isa = PBXGroup;
 			children = (
+				B97A0BC21F94B4FE0003F8F6 /* Runtime_getaobj */,
+				B97A0BBE1F94ABFE0003F8F6 /* Runtime_swizzle */,
+				B97A0BB11F947FB70003F8F6 /* Runtime_load */,
+				B9AB8D191F944C2100DD4727 /* TestSEL */,
+				B97A0BBF1F94AD050003F8F6 /* ReactNative */,
 				B9AB8CE21F944C0100DD4727 /* InterviewOfAll */,
 				B9AB8CFF1F944C0100DD4727 /* InterviewOfAllTests */,
 				B9AB8D0A1F944C0100DD4727 /* InterviewOfAllUITests */,
@@ -143,6 +218,16 @@
 				B9AB8D0D1F944C0100DD4727 /* Info.plist */,
 			);
 			path = InterviewOfAllUITests;
+			sourceTree = "<group>";
+		};
+		B9AB8D191F944C2100DD4727 /* TestSEL */ = {
+			isa = PBXGroup;
+			children = (
+				B9AB8D1A1F944C5C00DD4727 /* testSEL.h */,
+				B9AB8D1B1F944C5C00DD4727 /* testSEL.m */,
+				B97A0BCE1F94B9E50003F8F6 /* testSEL.rtf */,
+			);
+			name = TestSEL;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -248,8 +333,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B97A0BCF1F94B9E50003F8F6 /* testSEL.rtf in Resources */,
 				B9AB8CF61F944C0100DD4727 /* LaunchScreen.storyboard in Resources */,
+				B97A0BD31F94B9F50003F8F6 /* RTLoad_readme.rtf in Resources */,
 				B9AB8CF31F944C0100DD4727 /* Assets.xcassets in Resources */,
+				B97A0BD21F94B9F50003F8F6 /* load_VS_initlize.rtf in Resources */,
+				B97A0BC11F94AD1E0003F8F6 /* reactNative.rtf in Resources */,
+				B97A0BCD1F94B9B50003F8F6 /* objc_setAssociatedObject.rtf in Resources */,
 				B9AB8CF11F944C0100DD4727 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -277,8 +367,14 @@
 			files = (
 				B9AB8CEE1F944C0100DD4727 /* SecondViewController.m in Sources */,
 				B9AB8CE81F944C0100DD4727 /* AppDelegate.m in Sources */,
+				B97A0BCB1F94B9000003F8F6 /* UIView+testCategory.m in Sources */,
+				B97A0BB71F948AA90003F8F6 /* RTLoadViewController.m in Sources */,
 				B9AB8CEB1F944C0100DD4727 /* FirstViewController.m in Sources */,
 				B9AB8CE51F944C0100DD4727 /* main.m in Sources */,
+				B9AB8D1C1F944C5C00DD4727 /* testSEL.m in Sources */,
+				B97A0BB41F9481780003F8F6 /* testLoad.m in Sources */,
+				B97A0BC51F94B5550003F8F6 /* UIButton_MY.m in Sources */,
+				B97A0BC81F94B5910003F8F6 /* UIButton+block.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -504,6 +600,7 @@
 				B9AB8D121F944C0100DD4727 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B9AB8D131F944C0100DD4727 /* Build configuration list for PBXNativeTarget "InterviewOfAllTests" */ = {
 			isa = XCConfigurationList;
@@ -512,6 +609,7 @@
 				B9AB8D151F944C0100DD4727 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B9AB8D161F944C0100DD4727 /* Build configuration list for PBXNativeTarget "InterviewOfAllUITests" */ = {
 			isa = XCConfigurationList;
@@ -520,6 +618,7 @@
 				B9AB8D181F944C0100DD4727 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
