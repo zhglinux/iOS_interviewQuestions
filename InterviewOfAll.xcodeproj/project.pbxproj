@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		B97A0BB41F9481780003F8F6 /* testLoad.m in Sources */ = {isa = PBXBuildFile; fileRef = B97A0BB31F9481780003F8F6 /* testLoad.m */; };
 		B97A0BB71F948AA90003F8F6 /* RTLoadViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B97A0BB61F948AA90003F8F6 /* RTLoadViewController.m */; };
-		B97A0BC11F94AD1E0003F8F6 /* reactNative.rtf in Resources */ = {isa = PBXBuildFile; fileRef = B97A0BC01F94AD1E0003F8F6 /* reactNative.rtf */; };
 		B97A0BC51F94B5550003F8F6 /* UIButton_MY.m in Sources */ = {isa = PBXBuildFile; fileRef = B97A0BC41F94B5550003F8F6 /* UIButton_MY.m */; };
 		B97A0BC81F94B5910003F8F6 /* UIButton+block.m in Sources */ = {isa = PBXBuildFile; fileRef = B97A0BC71F94B5910003F8F6 /* UIButton+block.m */; };
 		B97A0BCB1F94B9000003F8F6 /* UIView+testCategory.m in Sources */ = {isa = PBXBuildFile; fileRef = B97A0BCA1F94B9000003F8F6 /* UIView+testCategory.m */; };
@@ -17,6 +16,7 @@
 		B97A0BCF1F94B9E50003F8F6 /* testSEL.rtf in Resources */ = {isa = PBXBuildFile; fileRef = B97A0BCE1F94B9E50003F8F6 /* testSEL.rtf */; };
 		B97A0BD21F94B9F50003F8F6 /* load_VS_initlize.rtf in Resources */ = {isa = PBXBuildFile; fileRef = B97A0BD01F94B9F50003F8F6 /* load_VS_initlize.rtf */; };
 		B97A0BD31F94B9F50003F8F6 /* RTLoad_readme.rtf in Resources */ = {isa = PBXBuildFile; fileRef = B97A0BD11F94B9F50003F8F6 /* RTLoad_readme.rtf */; };
+		B97A0BD51F94C3B80003F8F6 /* reactNative.rtf in Resources */ = {isa = PBXBuildFile; fileRef = B97A0BD41F94C3B80003F8F6 /* reactNative.rtf */; };
 		B9AB8CE51F944C0100DD4727 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = B9AB8CE41F944C0100DD4727 /* main.m */; };
 		B9AB8CE81F944C0100DD4727 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = B9AB8CE71F944C0100DD4727 /* AppDelegate.m */; };
 		B9AB8CEB1F944C0100DD4727 /* FirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B9AB8CEA1F944C0100DD4727 /* FirstViewController.m */; };
@@ -51,7 +51,6 @@
 		B97A0BB31F9481780003F8F6 /* testLoad.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = testLoad.m; path = Test/testLoad/testLoad.m; sourceTree = "<group>"; };
 		B97A0BB51F948AA90003F8F6 /* RTLoadViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = RTLoadViewController.h; path = Test/testLoad/RTLoadViewController.h; sourceTree = "<group>"; };
 		B97A0BB61F948AA90003F8F6 /* RTLoadViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = RTLoadViewController.m; path = Test/testLoad/RTLoadViewController.m; sourceTree = "<group>"; };
-		B97A0BC01F94AD1E0003F8F6 /* reactNative.rtf */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.rtf; path = reactNative.rtf; sourceTree = "<group>"; };
 		B97A0BC31F94B5550003F8F6 /* UIButton_MY.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = UIButton_MY.h; path = Test/getaobj/UIButton_MY.h; sourceTree = "<group>"; };
 		B97A0BC41F94B5550003F8F6 /* UIButton_MY.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = UIButton_MY.m; path = Test/getaobj/UIButton_MY.m; sourceTree = "<group>"; };
 		B97A0BC61F94B5910003F8F6 /* UIButton+block.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "UIButton+block.h"; path = "Test/getaobj/UIButton+block.h"; sourceTree = "<group>"; };
@@ -62,6 +61,7 @@
 		B97A0BCE1F94B9E50003F8F6 /* testSEL.rtf */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.rtf; name = testSEL.rtf; path = Test/testSEL/testSEL.rtf; sourceTree = "<group>"; };
 		B97A0BD01F94B9F50003F8F6 /* load_VS_initlize.rtf */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.rtf; name = load_VS_initlize.rtf; path = Test/testLoad/load_VS_initlize.rtf; sourceTree = "<group>"; };
 		B97A0BD11F94B9F50003F8F6 /* RTLoad_readme.rtf */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.rtf; name = RTLoad_readme.rtf; path = Test/testLoad/RTLoad_readme.rtf; sourceTree = "<group>"; };
+		B97A0BD41F94C3B80003F8F6 /* reactNative.rtf */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.rtf; name = reactNative.rtf; path = Test/reactNative/reactNative.rtf; sourceTree = "<group>"; };
 		B9AB8CE01F944C0100DD4727 /* InterviewOfAll.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = InterviewOfAll.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B9AB8CE41F944C0100DD4727 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		B9AB8CE61F944C0100DD4727 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -132,7 +132,7 @@
 		B97A0BBF1F94AD050003F8F6 /* ReactNative */ = {
 			isa = PBXGroup;
 			children = (
-				B97A0BC01F94AD1E0003F8F6 /* reactNative.rtf */,
+				B97A0BD41F94C3B80003F8F6 /* reactNative.rtf */,
 			);
 			name = ReactNative;
 			sourceTree = "<group>";
@@ -338,9 +338,9 @@
 				B97A0BD31F94B9F50003F8F6 /* RTLoad_readme.rtf in Resources */,
 				B9AB8CF31F944C0100DD4727 /* Assets.xcassets in Resources */,
 				B97A0BD21F94B9F50003F8F6 /* load_VS_initlize.rtf in Resources */,
-				B97A0BC11F94AD1E0003F8F6 /* reactNative.rtf in Resources */,
 				B97A0BCD1F94B9B50003F8F6 /* objc_setAssociatedObject.rtf in Resources */,
 				B9AB8CF11F944C0100DD4727 /* Main.storyboard in Resources */,
+				B97A0BD51F94C3B80003F8F6 /* reactNative.rtf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
